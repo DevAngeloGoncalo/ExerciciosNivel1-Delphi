@@ -1,14 +1,14 @@
-program Quarto;
+program Segundo;
 
 uses
   Vcl.Forms,
-  Cores in 'Exercícios\4 - Quarto\Cores.pas' {Form4};
+  ASCII in '2 -Segundo\ASCII.pas' {Form2};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm4, Form4);
+  Application.CreateForm(TForm2, Form2);
   Application.Run;
 end.

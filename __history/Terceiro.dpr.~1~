@@ -1,14 +1,14 @@
-program Quarto;
+program Terceiro;
 
 uses
   Vcl.Forms,
-  Cores in 'Exercícios\4 - Quarto\Cores.pas' {Form4};
+  Triangulo in '3 - Terceiro\Triangulo.pas' {Form3};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm4, Form4);
+  Application.CreateForm(TForm3, Form3);
   Application.Run;
 end.

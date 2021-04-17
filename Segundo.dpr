@@ -2,7 +2,7 @@ program Segundo;
 
 uses
   Vcl.Forms,
-  ASCII in '2 -Segundo\ASCII.pas' {Form2};
+  ASCII in 'Exercícios\2 -Segundo\ASCII.pas' {Form2};
 
 {$R *.res}
 

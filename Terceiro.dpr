@@ -2,7 +2,7 @@ program Terceiro;
 
 uses
   Vcl.Forms,
-  Triangulo in '3 - Terceiro\Triangulo.pas' {Form3};
+  Triangulo in 'Exercícios\3 - Terceiro\Triangulo.pas' {Form3};
 
 {$R *.res}
 

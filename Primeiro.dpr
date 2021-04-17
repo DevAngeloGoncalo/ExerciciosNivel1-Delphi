@@ -2,7 +2,7 @@ program Primeiro;
 
 uses
   Vcl.Forms,
-  Calculadora in '1 - Primeiro\Calculadora.pas' {Form1};
+  Calculadora in 'Exercícios\1 - Primeiro\Calculadora.pas' {Form1};
 
 {$R *.res}
 

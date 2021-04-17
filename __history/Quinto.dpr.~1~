@@ -1,14 +1,14 @@
-program Quarto;
+program Quinto;
 
 uses
   Vcl.Forms,
-  Cores in 'Exercícios\4 - Quarto\Cores.pas' {Form4};
+  Cadastro in '5 - Quinto\Cadastro.pas' {Form5};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm4, Form4);
+  Application.CreateForm(TForm5, Form5);
   Application.Run;
 end.

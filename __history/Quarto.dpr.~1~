@@ -2,7 +2,7 @@ program Quarto;
 
 uses
   Vcl.Forms,
-  Cores in 'Exercícios\4 - Quarto\Cores.pas' {Form4};
+  Cores in '4 - Quarto\Cores.pas' {Form4};
 
 {$R *.res}
 

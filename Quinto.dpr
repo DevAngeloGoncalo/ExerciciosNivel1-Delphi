@@ -2,7 +2,7 @@ program Quinto;
 
 uses
   Vcl.Forms,
-  Cadastro in '5 - Quinto\Cadastro.pas' {Form5};
+  Cadastro in 'Exercícios\5 - Quinto\Cadastro.pas' {Form5};
 
 {$R *.res}
 
