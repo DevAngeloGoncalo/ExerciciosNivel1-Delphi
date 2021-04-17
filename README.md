@@ -22,4 +22,4 @@ Faça um programa, com interface de usuário utilizando a biblioteca VCL, que co
 
 #### 5° Lista de alunos: 
 Faça um programa, com interface de usuário utilizando a biblioteca VCL, que solicite nome e idade de alunos. Ao clicar num botão, o sistema deverá mostrar na tela todos os alunos cadastrados. Desta forma:
-![Alt text](relative/path/to/img.jpg?raw=true "Title") https://github.com/DevAngeloGoncalo/ExerciciosNivel1-Delphi/blob/main/Exerc%C3%ADcios/5%20-%20Quinto/Readme%20Example.png
+![Readme Example](https://user-images.githubusercontent.com/45950068/115099122-46b9c080-9f0a-11eb-8ee3-5d9575fbccb0.png)
