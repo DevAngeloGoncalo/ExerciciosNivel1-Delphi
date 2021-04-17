@@ -1,6 +1,7 @@
 # Exercícios
 
-Exercícios propostos por 
+Exercícios propostos por
+<a href="https://github.com/andriwsluna">Drive</a> 
 [Andriws Luna] (https://github.com/andriwsluna)
 , Orientador em minha jornada como estagiário.
 
