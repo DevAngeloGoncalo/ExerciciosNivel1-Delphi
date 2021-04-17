@@ -1,4 +1,7 @@
 # Exercícios
+
+Exercícios propostos por [Andriws Luna] (https://github.com/andriwsluna), Orientador em minha jornada como estagiário.
+
 #### 1° Calculadora aritmética: 
 Faça um programa, com interface de usuário utilizando a biblioteca VCL, que solicite os seguintes dados: número 1, número 2, operação.  Em seguida,  mostre o resultado.
 
